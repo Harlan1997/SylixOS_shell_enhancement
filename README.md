@@ -3,7 +3,7 @@
 #### Implementation of shell enhancement on SylixOS 
 Completed Features:
 1. shell command completion.
-2. parameter hint.
+2. shell parameter hints.
 
 #### The requirement referred to [proj12-shell-enhancement-on-SylixOS](https://github.com/oscomp/proj12-shell-enhancement-on-SylixOS)
 
